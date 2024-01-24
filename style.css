@@ -36,6 +36,7 @@ body {
 
 .img-box {
     height: 192px;
+    width: 320px;
     margin: 8px;
     border-radius: 8px;
     cursor: pointer;
@@ -66,7 +67,7 @@ body {
     width: 80%;
     height: 88%;
     object-fit: contain;
-    margin: 16px;
+    margin: 0px 16px;
 }
 
 .close-img {
@@ -105,4 +106,10 @@ body {
         font-size: 24px;
         padding: 0px;
     }
+}
+
+@media(max-width: 500px) {
+    .img-box {
+        width: 280px;
+    }   
 }

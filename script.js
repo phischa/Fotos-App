@@ -1,4 +1,4 @@
-let images = ['img/beach1.jpg', 'img/sunrise1.jpg', 'img/tree1.jpg', 'img/mountain1.jpg', 'img/winter1.jpg', 'img/prague1.jpg', 'img/prague2.jpg']
+let images = ['img/beach1.jpg', 'img/sunrise1.jpg', 'img/tree1.jpg', 'img/mountain1.jpg', 'img/fall1.jpg', 'img/winter1.jpg', 'img/lavender1.jpg', 'img/prague1.jpg', 'img/prague2.jpg', 'img/morning1.jpg', 'img/sea1.jpg','img/sea2.jpg', 'img/purple1.jpg', 'img/sunset1.jpg', 'img/sunset2.jpg', 'img/house1.jpg', 'img/iceland1.jpg']
 
 function load() {
     let content = document.getElementById('content');
